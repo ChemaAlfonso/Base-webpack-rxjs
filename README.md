@@ -18,7 +18,7 @@ Ejecuta un live server para desarrollo.
 * Compilar proyecto:
 
 ```
-npm build
+npm run build
 ```
 Compila el proyecto a ./dist.
 
