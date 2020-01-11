@@ -14,4 +14,9 @@ Ese comando descargará todos los módulos de node necesarios para ejecutar el p
 npm start
 ```
 
+* Compilar proyecto:
+
+```
+npm build
+```
 
