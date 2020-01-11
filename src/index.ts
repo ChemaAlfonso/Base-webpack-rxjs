@@ -1,8 +1,10 @@
+/*  CSS & SCSS */
+import '../config/config';
 
-console.log('Hola Mundo!');
-
-
-
+// =================================
+//  Projecto webpack & RxJs
+// =================================
+console.log('Hola Mundo con Webpack & RxJs!');
 
 
 
