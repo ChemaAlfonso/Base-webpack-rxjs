@@ -1,11 +1,11 @@
-# Proyecto - Code clan
+# Proyecto - Base Webpack, Bootstrap & RxJs
 
 * Instalación de dependencias:
 
 ```
 npm install
 ```
-Ese comando descargará todos los módulos de node necesarios para ejecutar el proyecto.
+Descarga todos los módulos de node necesarios para ejecutar el proyecto.
 
 
 * Ejecutar proyecto:
@@ -13,10 +13,12 @@ Ese comando descargará todos los módulos de node necesarios para ejecutar el p
 ```
 npm start
 ```
+Ejecuta un live server para desarrollo.
 
 * Compilar proyecto:
 
 ```
 npm build
 ```
+Compila el proyecto a ./dist.
 
